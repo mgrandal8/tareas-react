@@ -1,0 +1,20 @@
+.mostrar-contenedor{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+.mostrar-boton{
+    padding: 16px;
+    font-size: 18px;
+    font-family: Roboto sans-serif;
+    border-radius: 0 4px 0 4px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    background-color: #00471b;
+    color: white;
+    text-transform: capitalize;
+    
+}
